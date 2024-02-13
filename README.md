@@ -28,3 +28,5 @@ Understanding customer segments is crucial for businesses to tailor marketing st
 4. Explore the Jupyter notebook for detailed insights and code explanations.
 
 
+Happy customer segmentation!
+
